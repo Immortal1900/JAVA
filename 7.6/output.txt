@@ -1,0 +1,63 @@
+Contents of file allnames.txt
+jake
+jake
+blake
+alex
+blake
+alex
+austin
+Contents of file appeared.txt
+Brad Hawk
+Chris
+Vera Ross
+Linfong
+Soifong
+Tong Yoon
+Marshall Law
+Paul Phoenix
+McKinzie
+Park
+Contents of file asd.txt
+adf
+asd
+fa
+sdf
+asdf
+vasdv
+as
+dva
+dsv
+Contents of file Destination.txt
+what are u doing?
+Contents of file names.txt
+shinkai
+jake
+golem
+brad
+austin
+napalm99
+Contents of file noduplicates.txt
+jake
+blake
+alex
+austin
+Contents of file notselected.txt
+Park
+Soifong
+Marshall Law
+McKinzie
+Contents of file qwe.txt
+1
+2
+2
+3
+7
+5
+785
+75
+45
+4
+5
+2
+45
+
